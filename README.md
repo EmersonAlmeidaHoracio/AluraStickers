@@ -12,3 +12,4 @@ Primeira imersão Java da Alura 2022
 - [API do IMDB] - https://imdb-api.com/en/API/Top250Movies/
 
 Sticker gerado sendo usado no Whatsapp 📱: <br>
+<img src="https://github.com/EmersonAlmeidaHoracio/AluraStickers/blob/main/saida/imagem_whatsapp.jpg" width="25%" height="30%"/> 
